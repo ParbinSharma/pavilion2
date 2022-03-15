@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pavilion2/static/css/main.6d959468.css",
+    "main.js": "/pavilion2/static/js/main.23766557.js",
+    "static/js/787.beb27359.chunk.js": "/pavilion2/static/js/787.beb27359.chunk.js",
+    "static/media/music.mp3": "/pavilion2/static/media/music.13fff8c6862479482c5a.mp3",
+    "static/media/abhishek.jpg": "/pavilion2/static/media/abhishek.0572c4b85f9a9d21b537.jpg",
+    "static/media/versus2.jpg": "/pavilion2/static/media/versus2.49ad9edc5219daaa3348.jpg",
+    "static/media/tuhin.jpg": "/pavilion2/static/media/tuhin.d4a62a48458de0479ebc.jpg",
+    "static/media/dhiraaj.jpg": "/pavilion2/static/media/dhiraaj.58906849558dbb7df36f.jpg",
+    "static/media/sayar.jpg": "/pavilion2/static/media/sayar.afca44bbf1a1a83721ba.jpg",
+    "static/media/suva.jpg": "/pavilion2/static/media/suva.e041574403a483533437.jpg",
+    "static/media/swastik.jpg": "/pavilion2/static/media/swastik.7529cbf8353d8e6df045.jpg",
+    "static/media/img.png": "/pavilion2/static/media/img.8ac05b5d0c7e56c63477.png",
+    "static/media/parbin.jpg": "/pavilion2/static/media/parbin.1ba3cac8cc4d339ad980.jpg",
+    "static/media/ball.webp": "/pavilion2/static/media/ball.aca33ca3d514b1bbd8b0.webp",
+    "static/media/bat.webp": "/pavilion2/static/media/bat.db44d48a2d9e053289fc.webp",
+    "index.html": "/pavilion2/index.html",
+    "main.6d959468.css.map": "/pavilion2/static/css/main.6d959468.css.map",
+    "main.23766557.js.map": "/pavilion2/static/js/main.23766557.js.map",
+    "787.beb27359.chunk.js.map": "/pavilion2/static/js/787.beb27359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d959468.css",
+    "static/js/main.23766557.js"
+  ]
+}
